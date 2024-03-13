@@ -20,11 +20,11 @@
     - title: 52PJ
       url: https://www.52pojie.cn/forum-2-1.html
       description: 52pj
-    - title: 在线之家
+    - title: 磁力在线
       qrcode: images/qrcodes/usdt.png
       logo:
-      url: https://www.zxzjhd.com/
-      description: 在线之家电影、电视剧
+      url: https://pc.xiaobai.mom/
+      description: 130#2601,*520
     - title: 低端电影
       logo:  images/logos/5eac6d69dc12980944f98.jpg
       url: https://ddys.pro/
@@ -33,9 +33,9 @@
       logo: 
       url: https://1080zyk5.com/
       description: 电影电视剧频道
-    - title: Telegram群组
-      url: https://t.me/+qf_DtRZ90ys2ZDBl/
-      description: 沟通交流，资源分享
+    - title: 百家姓
+      url: https://www.bjxah.com/
+      description: 百家姓转磁力
     - title: CF
       logo:  
       url: https://dash.cloudflare.com/
@@ -51,17 +51,17 @@
       description: UUID在线生成
     
 
-- taxonomy: 社区咨询
+- taxonomy: 电影电视频道
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
+    - title: 在线之家
       logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
+      url: https://www.zxzjhd.com/
+      description: 在线之家电影、电视剧
+    - title: 低端电影
       logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
+      url: https://ddys.pro/
+      description: 在线电影、电视剧
     - title: 数英网
       logo: images/logos/digitaling.png
       url: https://www.digitaling.com/
