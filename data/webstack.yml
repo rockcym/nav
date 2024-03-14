@@ -29,10 +29,10 @@
       logo:  images/logos/5eac6d69dc12980944f98.jpg
       url: https://ddys.pro/
       description: 低端电影、电视剧应有尽有！⏰客服在线时间08:00-23:00
-    - title: 1080zyk
+    - title: 京东登录入口
       logo: 
-      url: https://1080zyk5.com/
-      description: 电影电视剧频道
+      url: https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D3466299640%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action&source=wq_passport
+      description: 京东登录入口
     - title: 百家姓
       url: https://www.bjxah.com/
       description: 百家姓转磁力
@@ -62,6 +62,10 @@
       logo: images/logos/36kr.png
       url: https://ddys.pro/
       description: 在线电影、电视剧
+    - title: 1080zyk
+      logo: 
+      url: https://1080zyk5.com/
+      description: 电影电视剧频道
     - title: 图CF
       logo: images/logos/digitaling.png
       url: https://c0b6ffa7.telegraph-image-ddm.pages.dev/
