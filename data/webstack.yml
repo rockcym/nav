@@ -1,54 +1,47 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 自用站点
   icon: fa-star
   links: 
-    - title: YouTube
+  - title: 导航图
       logo: 
-      url: https://www.youtube.com/@kejigongxiang/videos
-      description: CF的应用
-    - title: 科技KKK
-      qrcode: images/qrcodes/bk.png
-      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://www.youtube.com/@KJKKK2023/videos
-      description: 资源分享，详细图文教程。
-    - title: 福利吧
-      qrcode: 
-      logo: images/logos/HQBS.png
-      url: https://www.wnflb99.com/forum-2-1.html
-      description: 福利吧论坛
-    - title: 52PJ
-      url: https://www.52pojie.cn/forum-2-1.html
-      description: 52pj
-    - title: 磁力在线
-      qrcode: images/qrcodes/usdt.png
-      logo:
-      url: https://pc.xiaobai.mom/
-      description: 130#2601,*520
-    - title: 低端电影
-      logo:  images/logos/5eac6d69dc12980944f98.jpg
-      url: https://ddys.pro/
-      description: 低端电影、电视剧应有尽有！⏰客服在线时间08:00-23:00
-    - title: 京东登录入口
+      url: https://rockcym.github.io/nav/
+      description: 自用的导航图
+  - title: 自用套域名CF_blog
       logo: 
-      url: https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D3466299640%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action&source=wq_passport
-      description: 京东登录入口
-    - title: 百家姓
-      url: https://www.bjxah.com/
-      description: 百家姓转磁力
+      url: http://blog.igolau.com/
+      description: 自用的CF_blog
+  - title: 自用未套域名CF_blog
+      logo: 
+      url: https://20240309blog.rockcym.workers.dev/
+      description: 自用的CF_blog    
+   - title: 未套域名CF_图床
+      logo: 
+      url: https://c0b6ffa7.telegraph-image-ddm.pages.dev/
+      description: 自用的CF_图床，未套域名
+   - title: 套域名CF_图床
+      logo: 
+      url: https://img.igolau.com/
+      description: 自用的CF_图床，套域名
+    - title: 自用的WordPress
+      logo: 
+      url: http://rockcym.serv00.net/
+      description: 自用的WordPress
+    - title: UUID生成
+      url: https://1024tools.com/uuid/
+      description: UUID在线生成  
     - title: CF
       logo:  
       url: https://dash.cloudflare.com/
-      description: cf免费
-    - title: Base64编码解码
-      url: https://www.matools.com/base64/
-      description: 将utf-8能表示的所有字符进行Base64编码加密解密
-    - title: OneDrive直链
-      url: https://onedrive.gimhoy.com/
-      description: OneDrive直链获取工具
-    - title: UUID生成
-      url: https://1024tools.com/uuid/
-      description: UUID在线生成
+      description: cf免费  
+  
+  
+   
+    
+    
+   
+   
+    
     
 
 - taxonomy: 电影电视频道
@@ -66,155 +59,55 @@
       logo: 
       url: https://1080zyk5.com/
       description: 电影电视剧频道
-    - title: 图CF
-      logo: images/logos/digitaling.png
-      url: https://c0b6ffa7.telegraph-image-ddm.pages.dev/
-      description: 后台/admin
-    - title: 图域名
-      logo: images/logos/lieyunwang.png
-      url: https://img.igolau.com/
-      description: 添加域名后
-    - title: blog
-      logo: images/logos/woshipm.png
-      url: https://blog.igolau.com/
-      description: 添加域名后
-    - title: blog原来
-      logo: images/logos/zaodula.png
-      url: https://20240309blog.rockcym.workers.dev/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
     
 
-- taxonomy: 灵感采集
+- taxonomy: 油管发现
   icon: fa-regular fa-lightbulb
   list: 
     - term: 发现产品
       links:
-        - title: Producthunt
+        - title: 科技共享
           logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
-        - title: NEXT
-          logo: images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
+          url: https://www.youtube.com/@kejigongxiang/videos
+          description: 杂货店
+    - title: 科技KKK
+      qrcode: images/qrcodes/bk.png
+      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
+      url: https://www.youtube.com/@KJKKK2023/videos
+      description: 资源分享，详细图文教程。   
       
-    - term: 界面灵感
+    - term: 常用应用
       links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-        - title: Collect UI
-          logo: images/logos/CollectUI.png
-          url: http://collectui.com/
-          description: Daily inspiration collected from daily ui archive and beyond.
-        - title: UI uigreat
-          logo: images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
-          description: APP界面截图参考
-        - title: Android Niceties
-          logo: images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+    - title: 京东登录入口
+      logo: 
+      url: https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D3466299640%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action&source=wq_passport
+      description: 京东登录入口
+    - title: 百家姓
+      url: https://www.bjxah.com/
+      description: 百家姓转磁力
+    - title: OneDrive直链
+      url: https://onedrive.gimhoy.com/
+      description: OneDrive直链获取工具
+    - title: 磁力在线
+      qrcode: images/qrcodes/usdt.png
+      logo:
+      url: https://pc.xiaobai.mom/
+      description: 130#2601,*520
+    - title: Base64编码解码
+      url: https://www.matools.com/base64/
+      description: 将utf-8能表示的所有字符进行Base64编码加密解密
       
-    - term: 网页灵感
+      
+    - term: 知名论坛
       links:
-        - title: Awwwards
-          logo: images/logos/awwwards.png
-          url: https://www.awwwards.com/
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-        - title: CSS Design Awards
-          logo: images/logos/CSSDesignAwards.png
-          url: https://www.cssdesignawards.com/
-          description: Website Awards & Inspiration - CSS Gallery
-        - title: The FWA
-          logo: images/logos/fwa.png
-          url: https://thefwa.com/
-          description: FWA - showcasing innovation every day since 2000
-        - title: Ecommercefolio
-          logo: images/logos/Ecommercefolio.png
-          url: http://www.ecommercefolio.com/
-          description: Only the Best Ecommerce Design Inspiration
-        - title: Lapa
-          logo: images/logos/Lapa.png
-          url: http://www.lapa.ninja/
-          description: The best landing page design inspiration from around the web.
-        - title: Reeoo
-          logo: images/logos/reeoo.png
-          url: http://reeoo.com/
-          description: web design inspiration and website gallery
-        - title: Designmunk
-          logo: images/logos/designmunk.png
-          url: https://designmunk.com/
-          description: Best Homepage Design Inspiration
-        - title: Best Websites Gallery
-          logo: images/logos/BWG.png
-          url: https://bestwebsite.gallery/
-          description: Website Showcase Inspiration | Best Websites Gallery
-        - title: Pages
-          logo: images/logos/pages.png
-          url: http://www.pages.xyz/
-          description: Curated directory of the best Pages
-        - title: SiteSee
-          logo: images/logos/SiteSee.png
-          url: https://sitesee.co/
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-        - title: Site Inspire
-          logo: images/logos/siteInspire.png
-          url: https://www.siteinspire.com/
-          description: A CSS gallery and showcase of the best web design inspiration.
-        - title: WebInspiration
-          logo: images/logos/WebInspiration.png
-          url: http://web.uedna.com/
-          description: 网页设计欣赏,全球顶级网页设计
-        - title: navnav
-          logo: images/logos/navnav.png
-          url: https://navnav.co/
-          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
-        - title: Really Good UX
-          logo: images/logos/ReallyGoodUX.png
-          url: https://www.reallygoodux.io/
-          description: A library of screenshots and examples of really good UX. Brought to you by
+        - title: 福利吧
+      qrcode: 
+      logo: images/logos/HQBS.png
+      url: https://www.wnflb99.com/forum-2-1.html
+      description: 福利吧论坛
+    - title: 52PJ
+      url: https://www.52pojie.cn/forum-2-1.html
+      description: 52pj
 
       
 - taxonomy: 素材资源
@@ -1047,30 +940,30 @@
       url: sub2
       description: 本站子页面2
     - title: webstack.cc
-      url: https://webstack.cc
+      url: 
       description: webstack - 设计师网址导航
     - title: 一为导航
-      url: https://nav.iowen.cn/
+      url: 
       description: onenav主题演示站
-    - title: 趣导航
-      url: https://qssily.com/
-    - title: 404导航
-      url: https://www.404dh.icu/
+    - title: 
+      url: 
+    - title: 
+      url: 
       description: 只导航优质资源
     - title: OPENI
-      url: https://openi.cn/
-    - title: 飞猪ai导航
-      url: https://feizhuke.com/
-      description: AI工具集箱
-    - title: bioit导航
-      url: https://www.bioit.top/
+      url: 
+    - title: 
+      url:
+      description: 
+    - title:
+      url: 
       description:
-    - title: 所长导航
-      url: https://liutongxu.github.io/
+    - title: 
+      url: 
       description:
-    - title: 一为webstack
-      url: https://webstack.iotheme.cn/
+    - title: 
+      url: 
     - title: iplaycode
-      url: https://iplaycode.github.io/nav/
-      description: iplaycode的demo导航网站
+      url:
+      description: 
 ---
