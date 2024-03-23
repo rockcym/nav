@@ -1,54 +1,39 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 自用站点
   icon: fa-star
   links: 
-    - title: YouTube
+    - title: 导航图
       logo: 
-      url: https://www.youtube.com/@kejigongxiang/videos
-      description: CF的应用
-    - title: 科技KKK
-      qrcode: images/qrcodes/bk.png
-      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://www.youtube.com/@KJKKK2023/videos
-      description: 资源分享，详细图文教程。
-    - title: 福利吧
-      qrcode: 
-      logo: images/logos/HQBS.png
-      url: https://www.wnflb99.com/forum-2-1.html
-      description: 福利吧论坛
-    - title: 52PJ
-      url: https://www.52pojie.cn/forum-2-1.html
-      description: 52pj
-    - title: 磁力在线
-      qrcode: images/qrcodes/usdt.png
-      logo:
-      url: https://pc.xiaobai.mom/
-      description: 130#2601,*520
-    - title: 低端电影
-      logo:  images/logos/5eac6d69dc12980944f98.jpg
-      url: https://ddys.pro/
-      description: 低端电影、电视剧应有尽有！⏰客服在线时间08:00-23:00
-    - title: 京东登录入口
+      url: https://rockcym.github.io/nav/
+      description: 自用的导航图
+    - title: 自用套域名CF_blog
       logo: 
-      url: https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D3466299640%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action&source=wq_passport
-      description: 京东登录入口
-    - title: 百家姓
-      url: https://www.bjxah.com/
-      description: 百家姓转磁力
+      url: http://blog.igolau.com/
+      description: 自用的CF_blog
+    - title: 自用未套域名CF_blog
+      logo: 
+      url: https://20240309blog.rockcym.workers.dev/
+      description: 自用的CF_blog
+    - title: 未套域名CF_图床
+      logo: 
+      url: https://c0b6ffa7.telegraph-image-ddm.pages.dev/
+      description: 自用的CF_图床，未套域名
+     title: 套域名CF_图床
+      logo: 
+      url: https://img.igolau.com/
+      description: 自用的CF_图床，套域名
+    - title: 自用的WordPress
+      logo: 
+      url: http://rockcym.serv00.net/
+      description: 自用的WordPress
+    - title: UUID生成
+      url: https://1024tools.com/uuid/
+      description: UUID在线生成  
     - title: CF
       logo:  
       url: https://dash.cloudflare.com/
       description: cf免费
-    - title: Base64编码解码
-      url: https://www.matools.com/base64/
-      description: 将utf-8能表示的所有字符进行Base64编码加密解密
-    - title: OneDrive直链
-      url: https://onedrive.gimhoy.com/
-      description: OneDrive直链获取工具
-    - title: UUID生成
-      url: https://1024tools.com/uuid/
-      description: UUID在线生成
     
 
 - taxonomy: 电影电视频道
