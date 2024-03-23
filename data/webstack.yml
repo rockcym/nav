@@ -1,57 +1,57 @@
 ---
 
-- taxonomy: 自用站点
+- taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: 导航图
+    - title: YouTube
       logo: 
-      url: https://rockcym.github.io/nav/
-      description: 自用的导航图
-    - title: 自用套域名CF_Blog
+      url: https://www.youtube.com/@kejigongxiang/videos
+      description: CF的应用
+    - title: 科技KKK
       qrcode: images/qrcodes/bk.png
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: http://blog.igolau.com/
-      description: 自用的CF_blog
-    - title: 自用未套域名CF_blog
+      url: https://www.youtube.com/@KJKKK2023/videos
+      description: 资源分享，详细图文教程。
+    - title: 福利吧
       qrcode: 
       logo: images/logos/HQBS.png
-      url: https://20240309blog.rockcym.workers.dev/
-      description: 自用的CF_blog 
-    - title: 套域名CF_图床
-      url: https://img.igolau.com/
-      description: 自用的CF_图床，套域名
-    - title: 自用的WordPress
+      url: https://www.wnflb99.com/forum-2-1.html
+      description: 福利吧论坛
+    - title: 52PJ
+      url: https://www.52pojie.cn/forum-2-1.html
+      description: 52pj
+    - title: 磁力在线
       qrcode: images/qrcodes/usdt.png
       logo:
-      url:http://rockcym.serv00.net/
-      description: 自用的WordPress
-    - title: UUID生成
+      url: https://pc.xiaobai.mom/
+      description: 130#2601,*520
+    - title: 低端电影
       logo:  images/logos/5eac6d69dc12980944f98.jpg
+      url: https://ddys.pro/
+      description: 低端电影、电视剧应有尽有！⏰客服在线时间08:00-23:00
+    - title: 京东登录入口
+      logo: 
+      url: https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D3466299640%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action&source=wq_passport
+      description: 京东登录入口
+    - title: 百家姓
+      url: https://www.bjxah.com/
+      description: 百家姓转磁力
+    - title: CF
+      logo:  
+      url: https://dash.cloudflare.com/
+      description: cf免费
+    - title: Base64编码解码
+      url: https://www.matools.com/base64/
+      description: 将utf-8能表示的所有字符进行Base64编码加密解密
+    - title: OneDrive直链
+      url: https://onedrive.gimhoy.com/
+      description: OneDrive直链获取工具
+    - title: UUID生成
       url: https://1024tools.com/uuid/
       description: UUID在线生成
-    - title: CF
-      logo: 
-      url: https://dash.cloudflare.com/
-      description: cf后台管理
-    - title: 预留 
-      url:  
-      description:   预留
-    - title:  预留
-      logo:  
-      url:  预留
-      description:  预留
-    - title:  预留
-      url: 
-      description:  预留
-    - title:  预留
-      url: 
-      description:  预留
-    - title:  预留
-      url: 
-      description:  预留
     
 
-- taxonomy: 电影电视
+- taxonomy: 电影电视频道
   icon: fa-regular fa-newspaper
   links: 
     - title: 在线之家
@@ -66,46 +66,46 @@
       logo: 
       url: https://1080zyk5.com/
       description: 电影电视剧频道
-    - title:  预留
+    - title: 图CF
       logo: images/logos/digitaling.png
-      url: 
-      description:  预留
-    - title:  预留
+      url: https://c0b6ffa7.telegraph-image-ddm.pages.dev/
+      description: 后台/admin
+    - title: 图域名
       logo: images/logos/lieyunwang.png
-      url: 
-      description:  预留
-    - title: 
+      url: https://img.igolau.com/
+      description: 添加域名后
+    - title: blog
       logo: images/logos/woshipm.png
-      url:  预留
-      description:  预留
-    - title:  预留
+      url: https://blog.igolau.com/
+      description: 添加域名后
+    - title: blog原来
       logo: images/logos/zaodula.png
-      url:  预留
-      description:  预留
-    - title:  预留 
+      url: https://20240309blog.rockcym.workers.dev/
+      description: 互联网行业深度阅读与学习平台
+    - title: 产品壹佰 
       logo: images/logos/chanpin100.png
-      url: 
-      description:  预留
-    - title:  预留
+      url: http://www.chanpin100.com/
+      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
+    - title: PMCAFF
       logo: images/logos/pmcaff.png
-      url: 
-      description: 
+      url: http://www.pmcaff.com/
+      description: 中国第一产品经理人气组织，专注于研究互联网产品
     - title: 爱运营
       logo: images/logos/iyunying.png
-      url: 
-      description:  预留
-    - title:  预留
+      url: http://www.iyunying.org/
+      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
+    - title: 鸟哥笔记
       logo: images/logos/niaogebiji.png
-      url: 
-      description: 
-    - title:  预留
+      url: http://www.niaogebiji.com/
+      description: 移动互联网第一干货平台
+    - title: 古田路9号
       logo: images/logos/gtn9.png
-      url: 
-      description:  预留
-    - title:  预留
+      url: http://www.gtn9.com/
+      description: 国内专业品牌创意平台
+    - title: 优阁网
       logo: images/logos/uigreat.png
-      url:  预留
-      description:  预留
+      url: http://www.uigreat.com/
+      description: UI设计师学习交流社区
     
 
 - taxonomy: 灵感采集
