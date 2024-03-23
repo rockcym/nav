@@ -8,35 +8,50 @@
       url: https://rockcym.github.io/nav/
       description: 自用的导航图
     - title: 自用套域名CF_blog
-      logo: 
+      qrcode: images/qrcodes/bk.png
+      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
       url: http://blog.igolau.com/
       description: 自用的CF_blog
     - title: 自用未套域名CF_blog
-      logo: 
+      qrcode: 
+      logo: images/logos/HQBS.png
       url: https://20240309blog.rockcym.workers.dev/
-      description: 自用的CF_blog
-    - title: 未套域名CF_图床
-      logo: 
-      url: https://c0b6ffa7.telegraph-image-ddm.pages.dev/
-      description: 自用的CF_图床，未套域名
-     title: 套域名CF_图床
-      logo: 
+      description: 自用的CF_blog 
+    - title: 套域名CF_图床
       url: https://img.igolau.com/
       description: 自用的CF_图床，套域名
     - title: 自用的WordPress
-      logo: 
-      url: http://rockcym.serv00.net/
+      qrcode: images/qrcodes/usdt.png
+      logo:
+      url:http://rockcym.serv00.net/
       description: 自用的WordPress
     - title: UUID生成
+      logo:  images/logos/5eac6d69dc12980944f98.jpg
       url: https://1024tools.com/uuid/
-      description: UUID在线生成  
+      description: UUID在线生成
     - title: CF
-      logo:  
+      logo: 
       url: https://dash.cloudflare.com/
-      description: cf免费
+      description: cf后台管理
+    - title: 预留 
+      url:  
+      description:   预留
+    - title:  预留
+      logo:  
+      url:  预留
+      description:  预留
+    - title:  预留
+      url: 
+      description:  预留
+    - title:  预留
+      url: 
+      description:  预留
+    - title:  预留
+      url: 
+      description:  预留
     
 
-- taxonomy: 电影电视频道
+- taxonomy: 电影电视
   icon: fa-regular fa-newspaper
   links: 
     - title: 在线之家
@@ -51,46 +66,46 @@
       logo: 
       url: https://1080zyk5.com/
       description: 电影电视剧频道
-    - title: 图CF
+    - title:  预留
       logo: images/logos/digitaling.png
-      url: https://c0b6ffa7.telegraph-image-ddm.pages.dev/
-      description: 后台/admin
-    - title: 图域名
+      url: 
+      description:  预留
+    - title:  预留
       logo: images/logos/lieyunwang.png
-      url: https://img.igolau.com/
-      description: 添加域名后
-    - title: blog
+      url: 
+      description:  预留
+    - title: 
       logo: images/logos/woshipm.png
-      url: https://blog.igolau.com/
-      description: 添加域名后
-    - title: blog原来
+      url:  预留
+      description:  预留
+    - title:  预留
       logo: images/logos/zaodula.png
-      url: https://20240309blog.rockcym.workers.dev/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
+      url:  预留
+      description:  预留
+    - title:  预留 
       logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
+      url: 
+      description:  预留
+    - title:  预留
       logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
+      url: 
+      description: 
     - title: 爱运营
       logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
+      url: 
+      description:  预留
+    - title:  预留
       logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
+      url: 
+      description: 
+    - title:  预留
       logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
+      url: 
+      description:  预留
+    - title:  预留
       logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
+      url:  预留
+      description:  预留
     
 
 - taxonomy: 灵感采集
