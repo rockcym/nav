@@ -1,29 +1,29 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 自用站点
   icon: fa-star
   links: 
-    - title: YouTube
+    - title: 图床
       logo: 
-      url: https://www.youtube.com/@kejigongxiang/videos
-      description: CF的应用
-    - title: 科技KKK
+      url: https://img.igolau.com
+      description: 套域名
+    - title: 图床
       qrcode: images/qrcodes/bk.png
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://www.youtube.com/@KJKKK2023/videos
-      description: 资源分享，详细图文教程。
-    - title: 福利吧
+      url: https://c0b6ffa7.telegraph-image-ddm.pages.dev/
+      description: 未套域名
+    - title: WordPress
       qrcode: 
       logo: images/logos/HQBS.png
-      url: https://www.wnflb99.com/forum-2-1.html
-      description: 福利吧论坛
-    - title: 52PJ
-      url: https://www.52pojie.cn/forum-2-1.html
-      description: 52pj
-    - title: 磁力在线
+      url: http://rockcym.serv00.net
+      description: WP博客
+    - title: CF博客套域名
+      url: http://blog.igolau.com
+      description: CF博客
+    - title: CF博客未域名
       qrcode: images/qrcodes/usdt.png
       logo:
-      url: https://pc.xiaobai.mom/
+      url: https://20240309blog.rockcym.workers.dev
       description: 130#2601,*520
     - title: 低端电影
       logo:  images/logos/5eac6d69dc12980944f98.jpg
@@ -40,9 +40,9 @@
       logo:  
       url: https://dash.cloudflare.com/
       description: cf免费
-    - title: Base64编码解码
-      url: https://www.matools.com/base64/
-      description: 将utf-8能表示的所有字符进行Base64编码加密解密
+    - title: 磁力在线
+      url: https://pc.xiaobai.mom/
+      description: 磁力下载
     - title: OneDrive直链
       url: https://onedrive.gimhoy.com/
       description: OneDrive直链获取工具
@@ -66,10 +66,10 @@
       logo: 
       url: https://1080zyk5.com/
       description: 电影电视剧频道
-    - title: 图CF
+    - title: 分享迷
       logo: images/logos/digitaling.png
-      url: https://c0b6ffa7.telegraph-image-ddm.pages.dev/
-      description: 后台/admin
+      url: https://www.fenxm.com/
+      description: 电视机APP
     - title: 图域名
       logo: images/logos/lieyunwang.png
       url: https://img.igolau.com/
@@ -81,62 +81,62 @@
     - title: blog原来
       logo: images/logos/zaodula.png
       url: https://20240309blog.rockcym.workers.dev/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
+      description: CF博客
+    - title: 
       logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
+      url: 
+      description: 
+    - title: 
       logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
+      url: 
+      description: 
+    - title: 
       logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
+      url: 
+      description: 
+    - title: 
       logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
+      url: 
+      description: 
+    - title: 
       logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
+      url: 
+      description: 
+    - title: 
       logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
+      url: 
+      description: 
     
 
-- taxonomy: 油管发现
+- taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
   list: 
-    - term: CF好玩
+    - term: 经验信息
       links:
-        - title: CM喂饭 干货满满
+        - title: 科技共享
           logo: images/logos/producthunt.png
-          url: https://www.youtube.com/@CMLiussss/videos
-          description: CF好好玩
-        - title: 科技KKK
+          url: https://www.youtube.com/@kejigongxiang/videos
+          description: CF产品
+        - title: NEXT
           logo: images/logos/NEXT.png
-          url: https://www.youtube.com/@KJKKK2023/videos
-          description: 目前广告多，免费少
-        - title: 小白科技
+          url: https://next.36kr.com/posts
+          description: 不错过任何一个新产品
+        - title: 少数派
           logo: images/logos/sspai.png
-          url: https://www.youtube.com/@kejixb/videos
-          description: 更新多，不过很多都是抄别人后加工创作
-        - title: Sophia
+          url: https://sspai.com/
+          description: 高品质数字消费指南
+        - title: 利器
           logo: images/logos/liqi.png
-          url: https://www.youtube.com/@Sophia-my6rv/videos
-          description: 可以看一下
-        - title: 爱分享的marco
+          url: https://liqi.io/
+          description: 创造者和他们的工具
+        - title: Today
           logo: images/logos/today.png
-          url: https://www.youtube.com/@marcoshare/videos
-          description: 很多有用的
-        - title: MisakaNo の 小破站
+          url: http://today.itjuzi.com/
+          description: 为身边的新产品喝彩
+        - title: 小众软件
           logo: images/logos/appinn.png
-          url: https://www.youtube.com/@misaka-blog/videos
-          description: Misaka大神
+          url: https://faxian.appinn.com/
+          description: 在这里发现更多有趣的应用
       
     - term: 界面灵感
       links:
