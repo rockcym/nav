@@ -25,11 +25,6 @@
       logo:
       url: https://20240309blog.rockcym.workers.dev
       description: 130#2601,*520
-    - title: GitHub Blog
-      qrcode: images/qrcodes/usdt.png
-      logo:
-      url: https://rockcym.github.io/blog/
-      description: 后台参考blog贴纸  
     - title: ITdog在线ping
       logo:  images/logos/5eac6d69dc12980944f98.jpg
       url: https://www.itdog.cn/ping/acjp2.cloudflarest.link
@@ -176,9 +171,9 @@
           logo: images/logos/fwa.png
           url: https://github.com/6dylan6/jdpro
           description: 6dy京东库
-        - title: 小白云盘TV、PC
+        - title: 
           logo: images/logos/Ecommercefolio.png
-          url: https://crazynoby.github.io/ 
+          url:  
           description:  
         - title:  
           logo: images/logos/Lapa.png
@@ -280,42 +275,38 @@
           url: http://simplelineicons.com/
           description: Simple line Icons pack
       
-    - term: 软件网站
+    - term: LOGO设计
       links:
-        - title: 423down
+        - title: Iconsfeed
           logo: images/logos/iconsfeed.png
-          url: https://www.423down.com/
-          description: 绿色软件
-        - title: 分享迷，
+          url: http://www.iconsfeed.com/
+          description: iOS icons gallery
+        - title: iOS Icon Gallery
           logo: images/logos/iosicongallery.png
-          url: https://www.fenxm.com/
-          description: TV端APP
-        - title: 果核网
+          url: http://iosicongallery.com/
+          description: Showcasing beautiful icon designs from the iOS App Store
+        - title: World Vector Logo
           logo: images/logos/worldvectorlogo.png
-          url: https://www.ghxi.com/
-          description: 软件下载
-        - title: uy5克隆窝
+          url: https://worldvectorlogo.com/
+          description: Brand logos free to download
+        - title: Instant Logo Search
           logo: images/logos/InstantLogoSearch.png
-          url: https://www.uy5.net/
-          description: 破解软件
-        - title: 异星软件
-          logo: images/logos/InstantLogoSearch.png
-          url: https://www.yxssp.com/
-          description: 安卓与PC破解
+          url: http://instantlogosearch.com/
+          description: Search & download thousands of logos instantly
 
-    - term: 在线工具
+    - term: 平面素材
       links:
-       - title: 在线工具箱
-          logo: images/logos/InstantLogoSearch.png
-          url: http://www.atoolbox.net/
-          description: 在线使用的工具
-        - title: 免抠图网
+        - title: freepik
+          logo: images/logos/freepik.png
+          url: https://www.freepik.com/
+          description: More than a million free vectors, PSD, photos and free icons.
+        - title: wallhalla
           logo: images/logos/wallhalla.png
-          url: http://www.miankoutupian.com/
-          description: 免抠图素材下载
-        - title:  
+          url: https://wallhalla.com/
+          description: Find awesome high quality wallpapers for desktop and mobile in one place.
+        - title: 365PSD
           logo: images/logos/365PSD.png
-          url:  
+          url: https://365psd.com/
           description: Free PSD &amp; Graphics, Illustrations
         - title: Medialoot
           logo: images/logos/Medialoot.png
