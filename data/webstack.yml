@@ -171,9 +171,9 @@
           logo: images/logos/fwa.png
           url: https://github.com/6dylan6/jdpro
           description: 6dy京东库
-        - title: 
+        - title: 小白云盘
           logo: images/logos/Ecommercefolio.png
-          url:  
+          url: https://crazynoby.github.io/ 
           description:  
         - title:  
           logo: images/logos/Lapa.png
@@ -275,7 +275,7 @@
           url: http://simplelineicons.com/
           description: Simple line Icons pack
       
-    - term: LOGO设计
+    - term: 软件网站
       links:
         - title: Iconsfeed
           logo: images/logos/iconsfeed.png
