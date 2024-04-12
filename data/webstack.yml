@@ -296,18 +296,26 @@
         - title: 异星软件
           logo: images/logos/InstantLogoSearch.png
           url: https://www.yxssp.com
-          description: 安卓与PC破解        
+          description: 安卓与PC破解
+        - title: 留空
+          logo: images/logos/InstantLogoSearch.png
+          url: https://www.52pojie.cn//forum-66-1.html
+          description: 52PJ 
+        - title: 留空
+          logo: images/logos/InstantLogoSearch.png
+          url: https://www.52pojie.cn//forum-66-1.html
+          description: 52PJ          
 
-    - term: 平面素材
+    - term: 在线工具
       links:
-        - title: freepik
+        - title: 免抠图网
           logo: images/logos/freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
+          url: http://www.atoolbox.net
+          description: 在线各种生成工具
+        - title: 免抠图素材下载
           logo: images/logos/wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
+          url: http://www.miankoutupian.com/
+          description: 免抠图素材下载
         - title: 365PSD
           logo: images/logos/365PSD.png
           url: https://365psd.com/
