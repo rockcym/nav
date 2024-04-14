@@ -82,14 +82,14 @@
       logo: images/logos/zaodula.png
       url: https://20240309blog.rockcym.workers.dev/
       description: CF博客
-    - title: 
+    - title: 4K影视小站
       logo: images/logos/chanpin100.png
-      url: 
-      description: 
-    - title: 
+      url: https://4kysxz.top/
+      description: 4K视频下载
+    - title: 不太灵影视
       logo: images/logos/pmcaff.png
-      url: 
-      description: 
+      url: https://www.7bt0.com/
+      description: 4K视频下载
     - title: 
       logo: images/logos/iyunying.png
       url: 
@@ -166,7 +166,7 @@
         - title: 萝卜库
           logo: images/logos/CSSDesignAwards.png
           url: https://github.com/lu0b0/Script
-          description: Website Awards & Inspiration - CSS Gallery
+          description: 饿了么库
         - title: 6dy京东库
           logo: images/logos/fwa.png
           url: https://github.com/6dylan6/jdpro
@@ -174,7 +174,7 @@
         - title: 小白云盘
           logo: images/logos/Ecommercefolio.png
           url: https://crazynoby.github.io/ 
-          description:  
+          description: 阿里云盘第三方下载
         - title:  
           logo: images/logos/Lapa.png
           url:  
@@ -296,26 +296,18 @@
         - title: 异星软件
           logo: images/logos/InstantLogoSearch.png
           url: https://www.yxssp.com
-          description: 安卓与PC破解
-        - title: 留空
-          logo: images/logos/InstantLogoSearch.png
-          url: https://www.52pojie.cn//forum-66-1.html
-          description: 52PJ 
-        - title: 留空
-          logo: images/logos/InstantLogoSearch.png
-          url: https://www.52pojie.cn//forum-66-1.html
-          description: 52PJ          
+          description: 安卓与PC破解        
 
-    - term: 在线工具
+    - term: Chrome和油猴插件
       links:
-        - title: 免抠图网
+        - title: freepik
           logo: images/logos/freepik.png
-          url: http://www.atoolbox.net
-          description: 在线各种生成工具
-        - title: 免抠图素材下载
+          url: https://www.crx4chrome.com/
+          description: 英文网站，crx下载
+        - title: 极简中文Chrome插件
           logo: images/logos/wallhalla.png
-          url: http://www.miankoutupian.com/
-          description: 免抠图素材下载
+          url: https://chrome.zzzmh.cn/index
+          description: 中文Chrome插件
         - title: 365PSD
           logo: images/logos/365PSD.png
           url: https://365psd.com/
@@ -361,7 +353,7 @@
           url: http://www.sccnn.com/
           description: 免费素材共享平台
       
-    - term: UI资源
+    - term: 电视相关
       links:
         - title: Freebiesbug
           logo: images/logos/freebiesbug.png
