@@ -49,7 +49,12 @@
     - title: UUID生成
       url: https://1024tools.com/uuid/
       description: UUID在线生成
-    
+    - title: Bpb
+      url: https://bbc5430b.bpb-u-panel.pages.dev/login
+      description: 配合优先玉米使用
+    - title: 优先IP
+      url: https://scanner.github1.cloud/
+      description: 在线生成	  
 
 - taxonomy: 电影电视频道
   icon: fa-regular fa-newspaper
@@ -175,10 +180,10 @@
           logo: images/logos/Ecommercefolio.png
           url: https://crazynoby.github.io/ 
           description: 阿里云盘第三方下载
-        - title:  
+        - title: 青龙Qltools 
           logo: images/logos/Lapa.png
-          url:  
-          description:  
+          url: https://github.com/nuanxinqing123/QLTools  
+          description: Qltools对接青龙面板 
         - title:  
           logo: images/logos/reeoo.png
           url:  
