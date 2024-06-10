@@ -25,14 +25,14 @@
       logo:
       url: https://20240309blog.rockcym.workers.dev
       description: 130#2601,*520
-    - title: ITdog在线ping
+    - title: 52提供图床
       logo:  images/logos/5eac6d69dc12980944f98.jpg
-      url: https://www.itdog.cn/ping/acjp2.cloudflarest.link
-      description: 多地Ping、常规版、icmp协议、网络延迟测试
-    - title: 京东登录入口
+      url: https://111666.best/
+      description: 无限图床52提供
+    - title: 自建短连接
       logo: 
-      url: https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D3466299640%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action&source=wq_passport
-      description: 京东登录入口
+      url: https://s.2305018.xyz/
+      description: 自建短连接Win26
     - title: 百家姓
       url: https://www.bjxah.com/
       description: 百家姓转磁力
@@ -52,9 +52,24 @@
     - title: Bpb
       url: https://bbc5430b.bpb-u-panel.pages.dev/login
       description: 配合优先玉米使用
+    - title: Bpb域名
+      url: https://bpb.240610.us.kg/login
+      description: 玉米到期时间2025.5.5
     - title: 优先IP
       url: https://scanner.github1.cloud/
-      description: 在线生成	  
+      description: 在线生成
+    - title: ITdog在线ping
+      logo:  images/logos/5eac6d69dc12980944f98.jpg
+      url: https://www.itdog.cn/ping/acjp2.cloudflarest.link
+      description: 多地Ping、常规版、icmp协议、网络延迟测试
+    - title: 京东登录入口
+      logo: 
+      url: https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D3466299640%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action&source=wq_passport
+      description: 京东登录入口
+    - title: ITdog在线ping
+      logo:  images/logos/5eac6d69dc12980944f98.jpg
+      url: http://new.xianbao.fun/
+      description:购物	  
 
 - taxonomy: 电影电视频道
   icon: fa-regular fa-newspaper
@@ -237,7 +252,7 @@
           description: 百度工商查询
         - title: 钉钉工商查询
           logo: images/logos/iconmonstr.png
-          url: https://dingtalk.com/qidian/
+          url: https://dingtalk.com/qidian/home
           description: 免费查询比较多
         - title: 国家工商年报
           logo: images/logos/iconarchive.png
@@ -817,6 +832,10 @@
           url: https://tinypng.com/
           logo: images/logos/tinypng.png
           description: Optimize your images with a perfect balance in quality and file size.
+        - title: 小说下载
+          url: https://txts.shingyu.cn/
+          logo: images/logos/tinypng.png
+          description: 小说下载
         - title: goqr
           url: http://goqr.me/
           logo: images/logos/goqr.png
